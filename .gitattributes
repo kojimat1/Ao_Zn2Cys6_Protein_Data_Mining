@@ -1,0 +1,3 @@
+# antiSMASH JSON files are 46-63 MB each. Track them with Git LFS to avoid
+# GitHub's large-file warnings and keep ordinary clones manageable.
+*.json filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,23 @@
+.DS_Store
+__MACOSX/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.zip
+*_output/
+*_outputs/
+PCA_outputs/
+PCA_threshold_sensitivity/
+PCA_sequence_length_effects/
+261003_betalactone_synteny_ortholog_results/
+bgc_proximity_sensitivity/
+
+# Source genome data withheld pending redistribution permission
+input_data/annotations/
+input_data/antismash_related_species/
+input_data/bgc_proximity/aor0-5.json
+input_data/source_preparation/aor0-5.faa
+input_data/source_preparation/aor0-5_2.faa
+input_data/source_preparation/CaoGD_aor-05_ID_Chr_AASeq.tsv
+input_data/source_preparation/aor0-5_SM00066_Protein_Seq_list.xlsx
+input_data/sequences/*.faa
