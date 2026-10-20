@@ -64,7 +64,7 @@ The repository includes the redistributable inputs and derived data listed in `M
 
 ## License
 
-No reuse license was supplied with the original archive. Select and add an appropriate `LICENSE` file before making the repository public.
+No license is currently assigned. The repository is publicly accessible, but no general permission for reuse has been granted.
 
 ## Restricted source data
 
