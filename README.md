@@ -29,8 +29,8 @@ The notebooks were developed for Google Colab. Open a notebook in Colab and uplo
 | 3 | `260922_antiSMASH_area_based_bgc_proximity_sensitivity.ipynb` | The *A. oryzae* antiSMASH JSON and GTF files, which are not redistributed, and `input_data/bgc_proximity/SM00066_ID_list.txt` |
 | 3b | `260721_antiSMASH_area_based_with_reference_set_*.ipynb` | The corresponding species GTF and antiSMASH JSON files, which are not redistributed, and the curated ortholog list in `input_data/ortholog_lists/` |
 | 4 | `261012_AO090005001236_synteny.ipynb` | The two workbooks in `input_data/synteny/` and the seven species GTF files, which are not redistributed |
-| 5 | `260727_STREME.ipynb` | DBD, non-DBD, and full-length FASTA files, which are not redistributed |
-| 6 | `260922_AoTF_Phylogenetic_Tree_Analysis.ipynb` | DBD, non-DBD, and full-length FASTA files, which are not redistributed |
+| 5 | `261101_STREME_sharp_logos.ipynb` | DBD, non-DBD, and full-length FASTA files, which are not redistributed |
+| 6 | `261101_AoTF_Phylogenetic_Tree_Analysis_revised.ipynb` | DBD, non-DBD, and full-length FASTA files, which are not redistributed |
 | 6b | `260922_Mantel_test_pairwise_3_trees_Spearman_Holm.ipynb` | `Domain_tree.nwk`, `non_DBD_tree.nwk`, and `FL_tree.nwk` generated in step 6 |
 | 7 | `260923_AO_TF_PCA.ipynb` | The three aaComp CSV files in `input_data/pca/` and the three iTOL color-strip files generated in step 6 |
 | 8 | `260925_PCA_threshold_sensitivity_analysis.ipynb` | The three aaComp CSV files in `input_data/pca/` |

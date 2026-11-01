@@ -4,9 +4,9 @@ The original and GitHub-ready notebooks were compared cell by cell. Python abstr
 
 | Original | GitHub-ready copy | Result | Detail |
 |---|---|---|---|
-| `260727_STREME.ipynb` | `260727_STREME.ipynb` | PASS | 4 Python cells compared |
+| `261101_STREME_sharp_logos.ipynb` | `261101_STREME_sharp_logos.ipynb` | PASS | 4 Python cells compared |
 | `260904_AoTF_DBD_Length_histogram_revised.ipynb` | `260904_AoTF_DBD_Length_histogram_revised.ipynb` | PASS | 7 Python cells compared |
-| `260922_AoTF_Phylogenetic_Tree_Analysis.ipynb` | `260922_AoTF_Phylogenetic_Tree_Analysis.ipynb` | PASS | 17 Python cells compared |
+| `261101_AoTF_Phylogenetic_Tree_Analysis_revised.ipynb` | `261101_AoTF_Phylogenetic_Tree_Analysis_revised.ipynb` | PASS | 17 Python cells compared |
 | `260922_antiSMASH_area_based_bgc_proximity_sensitivity.ipynb` | `260922_antiSMASH_area_based_bgc_proximity_sensitivity.ipynb` | PASS | 8 Python cells compared |
 | `260923_AO_TF_PCA.ipynb` | `260923_AO_TF_PCA.ipynb` | PASS | 11 Python cells compared |
 | `260925_PCA_sequence_length_effect_analysis.ipynb` | `260925_PCA_sequence_length_effect_analysis.ipynb` | PASS | 8 Python cells compared |

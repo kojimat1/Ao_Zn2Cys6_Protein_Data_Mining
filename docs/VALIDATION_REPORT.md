@@ -19,9 +19,9 @@ Validation performed on the GitHub-ready copy. Notebook outputs were cleared; an
 | `260721_antiSMASH_area_based_with_reference_set_and0-2.ipynb` | PASS |
 | `260721_antiSMASH_area_based_with_reference_set_ang0-2.ipynb` | PASS |
 | `260721_antiSMASH_area_based_with_reference_set_atr0-1.ipynb` | PASS |
-| `260727_STREME.ipynb` | PASS |
+| `261101_STREME_sharp_logos.ipynb` | PASS |
 | `260904_AoTF_DBD_Length_histogram_revised.ipynb` | PASS |
-| `260922_AoTF_Phylogenetic_Tree_Analysis.ipynb` | PASS |
+| `261101_AoTF_Phylogenetic_Tree_Analysis_revised.ipynb` | PASS |
 | `260922_Mantel_test_pairwise_3_trees_Spearman_Holm.ipynb` | PASS |
 | `260922_antiSMASH_area_based_bgc_proximity_sensitivity.ipynb` | PASS |
 | `260923_AO_TF_PCA.ipynb` | PASS |
